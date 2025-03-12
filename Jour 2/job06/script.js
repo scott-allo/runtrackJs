@@ -1,4 +1,3 @@
-// Séquence du code Konami
 const konamiCode = [
     'ArrowUp', 'ArrowDown',
     'ArrowLeft',  'ArrowRight',
@@ -31,6 +30,10 @@ function checkKonamiCode(event) {
 
 window.addEventListener('keydown', checkKonamiCode);
 
+// Haut (↑)
+// Bas (↓)
+// Gauche (←)
+// Droite (→)
 // Haut (↑)
 // Bas (↓)
 // Gauche (←)
