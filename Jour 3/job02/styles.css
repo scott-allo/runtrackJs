@@ -1,0 +1,23 @@
+#game-container {
+    text-align: center;
+}
+#image-slots, #image-pieces {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.slot {
+    width: 100px;
+    height: 100px;
+    border: 2px dashed #000;
+}
+.piece {
+    width: 100px;
+    height: 100px;
+    cursor: grab;
+}
+#message {
+    font-size: 1.2em;
+    margin-top: 20px;
+}
