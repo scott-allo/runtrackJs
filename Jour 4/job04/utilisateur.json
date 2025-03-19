@@ -1,0 +1,35 @@
+[
+    {
+      "utilisateur": {
+        "id": 1,
+        "nom": "Allo",
+        "prenom": "Scott",
+        "email": "scott.allo@laplateforme.io"
+      }
+    },
+    {
+      "utilisateur": {
+        "id": 2,
+        "nom": "Jean",
+        "prenom": "Michel",
+        "email": "Jeanmichou@gmail.com"
+      }
+    },
+    {
+      "utilisateur": {
+        "id": 3,
+        "nom": "Michael",
+        "prenom": "Jackson",
+        "email": "Yeeeha@gmail.com"
+      }
+    },
+  
+    {
+      "utilisateur": {
+        "id": 4,
+        "nom": "tikitaka",
+        "prenom": "brazil",
+        "email": "chupapimunano@gmail.com"
+      }
+    }
+  ]
