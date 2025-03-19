@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Materialize</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+  </head>
+  <body>
+    <header class="header" id="header">
+      <nav class="navbar center-align">
+        <a href="index.html">Accueil</a>
+        <a href="index.html">Inscription</a>
+        <a href="index.html">Connexion</a>
+        <a href="index.html">Rechercher</a>
+      </nav>
+    </header>
+
+    <form id="connexion-form">
+      <p>
+        <label>
+          <input name="civilite" type="radio" checked value="Monsieur" />
+          <span>Monsieur</span>
+        </label>
+      </p>
+      <p>
+        <label>
+          <input name="civilite" type="radio" value="Madame" />
+          <span>Madame</span>
+        </label>
+      </p>
+      <label for="firstname">Prénom</label>
+      <input type="text" id="firstname" name="firstname" required />
+      <br />
+      <label for="lastname">Nom de famille</label>
+      <input type="text" id="lastname" name="lastname" required /><br />
+      <label for="adress">Adresse</label>
+      <input type="text" id="adress" name="adress" required /><br />
+      <label for="email"> Email</label>
+      <input type="email" id="email" name="email" required /><br />
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" required /><br />
+      <label>
+        <input type="checkbox" name="interets" value="informatique" />
+        <span>Informatique</span>
+      </label>
+      <label>
+        <input type="checkbox" />
+        <span>Voyage</span>
+      </label>
+      <label>
+        <input type="checkbox" />
+        <span>Sport</span>
+      </label>
+      <label>
+        <input type="checkbox" />
+        <span>Lecture</span> </label
+      ><br />
+      <button type="submit">S'inscrire</button><br />
+    </form>
+    <br>
+    <footer class="page-footer">
+        <div class=container>
+            <div class=row>
+                <div class=col l6 s12 grey-text text-lighten-4 right>Tous droits réservés</footer>
+  </body>
+</html>
