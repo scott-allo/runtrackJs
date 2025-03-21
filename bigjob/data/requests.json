@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "email": "olivia.dondas@laplateforme.io",
+      "date": "2023-11-15",
+      "status": "pending" 
+    },
+    {
+      "id": 2,
+      "email": "scott.allo@laplateforme.io",
+      "date": "2023-11-20",
+      "status": "approved"
+    },
+    {
+        "id": 1,
+        "email": "olivia.dondas@laplateforme.io",
+        "date": "2023-11-15",
+        "status": "pending" 
+      },
+      {
+        "id": 3,
+        "email": "scott.allo@laplateforme.io",
+        "date": "2023-11-20",
+        "status": "approved"
+      },
+      {
+        "id": 4,
+        "email": "olivia.dondas@laplateforme.io",
+        "date": "2023-11-15",
+        "status": "pending" 
+      },
+      {
+        "id": 5,
+        "email": "scott.allo@laplateforme.io",
+        "date": "2023-11-20",
+        "status": "approved"
+      },
+      {
+        "id": 6,
+        "email": "olivia.dondas@laplateforme.io",
+        "date": "2023-11-15",
+        "status": "pending" 
+      },
+      {
+        "id": 7,
+        "email": "scott.allo@laplateforme.io",
+        "date": "2023-11-20",
+        "status": "approved"
+      }
+  ]
